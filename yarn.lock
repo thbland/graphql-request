@@ -1440,9 +1440,9 @@ async-limiter@~1.0.0:
   integrity sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ==
 
 async-lock@^1.1.0:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/async-lock/-/async-lock-1.2.4.tgz#80d0d612383045dd0c30eb5aad08510c1397cb91"
-  integrity sha512-UBQJC2pbeyGutIfYmErGc9RaJYnpZ1FHaxuKwb0ahvGiiCkPUf3p67Io+YLPmmv3RHY+mF6JEtNW8FlHsraAaA==
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/async-lock/-/async-lock-1.3.0.tgz#0fba111bea8b9693020857eba4f9adca173df3e5"
+  integrity sha512-8A7SkiisnEgME2zEedtDYPxUPzdv3x//E7n5IFktPAtMYSEAV7eNJF0rMwrVyUFj6d/8rgajLantbjcNRQYXIg==
 
 async-retry@^1.2.1:
   version "1.3.1"
@@ -3209,9 +3209,9 @@ ieee754@^1.1.4:
   integrity sha512-4vf7I2LYV/HaWerSo3XmlMkp5eZ83i+/CDluXi/IGTs/O1sejBNhTtnxzmRZfvOUqj7lZjqHkeTvpgSFDlWZTg==
 
 ignore@^5.1.4:
-  version "5.1.8"
-  resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.8.tgz#f150a8b50a34289b33e22f5889abd4d8016f0e57"
-  integrity sha512-BMpfD7PpiETpBl/A6S498BaIJ6Y/ABT93ETbby2fP00v4EbvPBXWEoaR1UBPKs3iR53pJY7EtZk5KACI57i1Uw==
+  version "5.1.9"
+  resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.9.tgz#9ec1a5cbe8e1446ec60d4420060d43aa6e7382fb"
+  integrity sha512-2zeMQpbKz5dhZ9IwL0gbxSW5w0NK/MSAMtNuhgIHEPmaU3vPdKPL0UdvUCXs5SS4JAwsBxysK5sFMW8ocFiVjQ==
 
 iltorb@^2.4.3:
   version "2.4.5"
@@ -3558,9 +3558,9 @@ isobject@^4.0.0:
   integrity sha512-S/2fF5wH8SJA/kmwr6HYhK/RI/OkhD84k8ntalo0iJjZikgq1XFvR5M8NPT1x5F7fBwCG3qHfnzeP/Vh/ZxCUA==
 
 isomorphic-git@^1.7.4:
-  version "1.7.8"
-  resolved "https://registry.yarnpkg.com/isomorphic-git/-/isomorphic-git-1.7.8.tgz#26ad3c6fb201e994df675a9778af55a60075d579"
-  integrity sha512-fSTsgp8J4s1aIfB/woR7slOAtX9wNprxs/iJaItE3yn5a/KjDAgIDcdutes88/0uC/VdCQFyuDZq1fdtYftrDw==
+  version "1.10.1"
+  resolved "https://registry.yarnpkg.com/isomorphic-git/-/isomorphic-git-1.10.1.tgz#2f3a3d2d41baf6a88e046a21e0527bc13a21d663"
+  integrity sha512-abbPpKkykIVDJ92rtYoD4AOuT5/7PABHR2fDBrsm7H0r2ZT+MGpPL/FynrEJM6nTcFSieaIDxnHNGhfHO/v+bA==
   dependencies:
     async-lock "^1.1.0"
     clean-git-ref "^2.0.1"
